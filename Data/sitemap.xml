@@ -1,0 +1,149 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://3ddelights.org/</loc>
+        <lastmod>2024-07-28T20:41:14+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <url>
+        <loc>https://3ddelights.org/index.html</loc>
+        <lastmod>2024-07-28T20:41:14+00:00</lastmod>
+        <priority>0.80</priority>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/1.png</image:loc>
+            <image:caption>3D printer creating custom designs</image:caption>
+            <image:title>3D printer creating custom designs</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Printer.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Name_Plaque.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Cricket_Bat.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/SnowBall_Rick_And_Morty.jpg</image:loc>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://3ddelights.org/About_Us.html</loc>
+        <lastmod>2024-07-28T20:41:14+00:00</lastmod>
+        <priority>0.80</priority>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Printer_Enclosed.jpg</image:loc>
+            <image:caption>3D printer enclosed in a workspace</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://3ddelights.org/Policies.html</loc>
+        <lastmod>2024-07-28T20:41:14+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <url>
+        <loc>https://3ddelights.org/Gallery.html</loc>
+        <lastmod>2024-07-28T20:41:14+00:00</lastmod>
+        <priority>0.80</priority>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Cricket_Bat.jpg</image:loc>
+            <image:caption>Customised Cricket Bat using our burnt titanium filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Name_Plaque.jpg</image:loc>
+            <image:caption>Customised Name plaque using our tri colour (purple, green, and blue) filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/SnowBall_Rick_And_Morty.jpg</image:loc>
+            <image:caption>Snowball (from Rick And Morty) print using our white colour filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Octopus.jpg</image:loc>
+            <image:caption>Flexible Octopus print using our tri colour (purple, green, and blue) filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Alien_Bust.jpg</image:loc>
+            <image:caption>Alien Bust print using our tri colour (purple, green, and blue) filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Hey_You_Guys.jpg</image:loc>
+            <image:caption>Sloth from The Goonies print using our burnt titanium filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Lobster.jpg</image:loc>
+            <image:caption>Flexible Lobster using our multi colour filament (currently out of stock) on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Triceratops.jpg</image:loc>
+            <image:caption>Flexible Triceratops using our multi colour filament (currently out of stock) on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Cat.jpg</image:loc>
+            <image:caption>Flexible Cat using our multi colour filament (currently out of stock) on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Starfish.jpg</image:loc>
+            <image:caption>Flexible Starfish using our multi colour filament (currently out of stock) on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/F_U_Pot.jpg</image:loc>
+            <image:caption>Finger Plant Pot using our tri colour (purple, green, and blue) filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Headphone_Stand.jpg</image:loc>
+            <image:caption>Headphone Stand using our copper rainbow filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Elon_Bear.jpg</image:loc>
+            <image:caption>Elon Musk x Care Bear using our white filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/customised_ball.jpg</image:loc>
+            <image:caption>Customisable ball using our copper filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/bday_cake_topper.jpg</image:loc>
+            <image:caption>Customisable birthday cake topper using our copper filament and white filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/mot_nameplate.jpg</image:loc>
+            <image:caption>Customisable nameplate using our tri colour filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/flexi_alien.jpg</image:loc>
+            <image:caption>Flexible Alien using our tri colour (purple, green, and blue) filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/human_dog_decoration.jpg</image:loc>
+            <image:caption>Human x Dog decoration using our copper filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/toiletpaper_holder.jpg</image:loc>
+            <image:caption>Shaun the sheep toilet paper decoration using our tri colour (purple, green, and blue) filament on our textured bed plate.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Card_Plaque.jpg</image:loc>
+            <image:caption>Just a customisable plaque that can be any shape, size, colour, and text. This is white and copper coloured.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Tow_Ball_Cover.jpg</image:loc>
+            <image:caption>Darth Vader tow ball cover for a car.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Chucky_Hueforge.jpg</image:loc>
+            <image:caption>Customisable hueforge of Chucky. Can use any image and any colour. This one is using black and UV light activated filament. This is what it looks like in light.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.3ddelights.org/Images/Products/Chucky_Huefoge_Illuminated.jpg</image:loc>
+            <image:caption>Customisable hueforge of Chucky. Can use any image and any colour. This one is using black and UV light activated filament. This is what it looks like in dark.</image:caption>
+        </image:image>
+    </url>
+
+</urlset>
